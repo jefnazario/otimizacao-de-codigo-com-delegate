@@ -1,0 +1,6 @@
+C:\Users\jeferson.nazario\Desktop\Otimizacao\Otimizacao\bin\Debug\Otimizacao.exe.config
+C:\Users\jeferson.nazario\Desktop\Otimizacao\Otimizacao\bin\Debug\Otimizacao.exe
+C:\Users\jeferson.nazario\Desktop\Otimizacao\Otimizacao\bin\Debug\Otimizacao.pdb
+C:\Users\jeferson.nazario\Desktop\Otimizacao\Otimizacao\obj\Debug\Otimizacao.csprojResolveAssemblyReference.cache
+C:\Users\jeferson.nazario\Desktop\Otimizacao\Otimizacao\obj\Debug\Otimizacao.exe
+C:\Users\jeferson.nazario\Desktop\Otimizacao\Otimizacao\obj\Debug\Otimizacao.pdb
